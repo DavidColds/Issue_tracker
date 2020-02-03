@@ -1,1 +1,1 @@
-web: gunicorn Issue_tracker.wsgi
+web: gunicorn django_project.wsgi
